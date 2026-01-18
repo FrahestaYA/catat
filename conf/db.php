@@ -1,6 +1,6 @@
 <?php
 $host = 'localhost';
-$db   = 'finance_app';
+$db   = 'frah_finance_app';
 $user = 'root';
 $pass = ''; // Default XAMPP password is empty
 $charset = 'utf8mb4';
